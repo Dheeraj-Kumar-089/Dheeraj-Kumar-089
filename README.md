@@ -1,4 +1,4 @@
-# Hi, I'm Dheeraj Kumar Prajapati 👋
+# Hi, I'm Dheeraj Kumar Prajapati
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dheeraj-kumar-prajapati-8bb545224"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,4 +88,3 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dheeraj-Kumar-089&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
----
