@@ -9,7 +9,7 @@
 CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
 
 🔭 **I’m currently building:**
-* **[Tickker](https://tickker.in):** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders.[cite: 1] It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.[cite: 1]
+* **[Tickker]:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders.It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
 * **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
 
 🚀 **What I've built:**
@@ -24,13 +24,6 @@ Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solv
 * Frontend Developer at HackOdisha Hackathon (integrated frontend components with backend services).
 * Performed Exploratory Data Analysis on government Aadhar data at the UIDAI Hackathon.
 * Contributed to the website development team for REBECA (annual cultural fest).
-
-⚡ **Fun facts:** 
-When I'm not grinding my Codeforces rating or pushing code, you can find me on the badminton court playing for the college team, or performing in college drama events like Expressions!
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dheeraj-Kumar-089&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 💻 Tech Stack:
