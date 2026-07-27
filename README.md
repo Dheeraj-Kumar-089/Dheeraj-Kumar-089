@@ -9,7 +9,8 @@
 CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
 
 🔭 **I'm currently building:**
-* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
+* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
+
 * **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
 
 🚀 **Featured Projects:**
