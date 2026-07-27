@@ -1,6 +1,3 @@
-Here is your complete, updated GitHub profile README with the "Vital Statistics" section added, utilizing your GitHub username (`Dheeraj-Kumar-089`) to generate the dynamic stats cards matching the style in `image_8828b0.png`.
-
-```markdown
 # Hi, I'm Dheeraj Kumar Prajapati 👋
 
 <p align="left">
@@ -89,5 +86,3 @@ Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solv
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtual_Machine-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-
-```
