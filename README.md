@@ -78,13 +78,9 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dheeraj-Kumar-089&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakNum=46AF50&sideNums=4CAF50&currStreakLabel=46AF50&dates=8B949E&sideLabels=8B949E&border=30363D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dheeraj-Kumar-089&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakNum=4CAF50&sideNums=4CAF50&currStreakLabel=4CAF50&dates=8B949E&sideLabels=8B949E&border=30363D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Kumar-089&bg_color=0D1117&color=A875FF&line=A875FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dheeraj-Kumar-089&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
