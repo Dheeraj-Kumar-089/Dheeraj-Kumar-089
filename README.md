@@ -1,35 +1,29 @@
 # Hi, I'm Dheeraj Kumar Prajapati 👋
-
+ 
 <p align="left">
   <a href="https://www.linkedin.com/in/dheeraj-kumar-prajapati-8bb545224"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/dheer1jkr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/dheer1j_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
 CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
-
+ 
 🔭 **I'm currently building:**
-* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
+* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
 * **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
-
 🚀 **Featured Projects:**
 * **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern ML workflows — live in production.
-* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)) — end-to-end product, frontend to API, shipped and deployed.
 * **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect and neutralize political bias in news/social text, aimed at improving media literacy.
-* **[UIDAI EDA](https://github.com/Dheeraj-Kumar-089/UIDAI):** Multivariate exploratory data analysis on UP's Aadhaar enrollment data.
 * **Open Source Contributions:** Contributed to community projects including **SecureGuard** (automated discovery of misconfigurations in open-source dependencies) and **Eventra** (full-stack event management platform, React + Spring Boot).
-
+* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)) — end-to-end product, frontend to API, shipped and deployed.
 🌱 Actively solving DSA (500+ problems solved) and going deeper into Machine Learning & Deep Learning.
-
+ 
 🏆 **Hackathons & Achievements:**
 * Led website development for **REBECA**, IIEST Shibpur's annual cultural fest — built and shipped a production site used by the entire college community.
 * Secured 3rd place at the college level in the Smart India Hackathon (SIH).
 * Frontend Developer at HackOdisha Hackathon — integrated frontend components with backend services under time pressure.
 * Performed Exploratory Data Analysis on government Aadhaar data at the UIDAI Hackathon.
-
-
 ### 💻 Tech Stack:
-
+ 
 **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,7 +33,6 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
 **Frameworks, Platforms & Libraries**
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -53,13 +46,11 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
-
 **Databases**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
 **Hosting / SaaS**
 <p>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
@@ -67,24 +58,20 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtual_Machine-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
-
 ---
-
+ 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-089&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=FFFFFF&currStreakLabel=FF6B35&dates=8B949E&sideLabels=8B949E&border=30363D" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Kumar-089&bg_color=0D1117&color=A875FF&line=A875FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dheeraj-Kumar-089&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
@@ -92,5 +79,4 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
   <!-- Note: To make the WakaTime badge dynamic, replace this static shield with your WakaTime URL: https://wakatime.com/badge/user/YOUR_USERNAME.svg -->
   <a href="https://wakatime.com"><img src="https://img.shields.io/badge/Code_Time-3817_hrs_20_mins-0e75b6?style=flat-square" alt="Code Time" /></a>
 </p>
-
 ---
