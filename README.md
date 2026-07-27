@@ -8,22 +8,24 @@
 
 CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
 
-🔭 **I’m currently building:**
-* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
+🔭 **I'm currently building:**
+* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
 * **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
 
-🚀 **What I've built:**
-* **Kairis AI:** An advanced AI-powered application leveraging modern machine learning workflows.
-* **Political Bias Detection Tool:** An NLP and Machine Learning model designed to identify and analyze political bias within text and news articles.
+🚀 **Featured Projects:**
+* **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern ML workflows — live in production.
+* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)) — end-to-end product, frontend to API, shipped and deployed.
+* **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect and neutralize political bias in news/social text, aimed at improving media literacy.
+* **[UIDAI EDA](https://github.com/Dheeraj-Kumar-089/UIDAI):** Multivariate exploratory data analysis on UP's Aadhaar enrollment data.
+* **Open Source Contributions:** Contributed to community projects including **SecureGuard** (automated discovery of misconfigurations in open-source dependencies) and **Eventra** (full-stack event management platform, React + Spring Boot).
 
-🌱 **I’m currently exploring:** 
-Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solved 500+ DSA problems). 
+🌱 Actively solving DSA (500+ problems solved) and going deeper into Machine Learning & Deep Learning.
 
 🏆 **Hackathons & Achievements:**
+* Led website development for **REBECA**, IIEST Shibpur's annual cultural fest — built and shipped a production site used by the entire college community.
 * Secured 3rd place at the college level in the Smart India Hackathon (SIH).
-* Frontend Developer at HackOdisha Hackathon (integrated frontend components with backend services).
-* Performed Exploratory Data Analysis on government Aadhar data at the UIDAI Hackathon.
-* Contributed to the website development team for REBECA (annual cultural fest).
+* Frontend Developer at HackOdisha Hackathon — integrated frontend components with backend services under time pressure.
+* Performed Exploratory Data Analysis on government Aadhaar data at the UIDAI Hackathon.
 
 
 ### 💻 Tech Stack:
@@ -68,10 +70,15 @@ Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solv
 
 ---
 
-### 📊 Vital Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dheeraj-Kumar-089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
