@@ -1,3 +1,6 @@
+Here is your complete, updated GitHub profile README with the "Vital Statistics" section added, utilizing your GitHub username (`Dheeraj-Kumar-089`) to generate the dynamic stats cards matching the style in `image_8828b0.png`.
+
+```markdown
 # Hi, I'm Dheeraj Kumar Prajapati 👋
 
 <p align="left">
@@ -9,7 +12,7 @@
 CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
 
 🔭 **I’m currently building:**
-* **[Tickker]:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders.It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
+* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It bridges the gap between retail curiosity and institutional execution by providing a risk-free environment to master markets using a custom Brownian Bridge algorithm for tick-by-tick price action.
 * **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
 
 🚀 **What I've built:**
@@ -24,6 +27,27 @@ Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solv
 * Frontend Developer at HackOdisha Hackathon (integrated frontend components with backend services).
 * Performed Exploratory Data Analysis on government Aadhar data at the UIDAI Hackathon.
 * Contributed to the website development team for REBECA (annual cultural fest).
+
+---
+
+### 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-089&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Kumar-089&bg_color=0D1117&color=A875FF&line=A875FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dheeraj-Kumar-089&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+<p align="center">
+  <!-- Note: To make the WakaTime badge dynamic, replace this static shield with your WakaTime URL: https://wakatime.com/badge/user/YOUR_USERNAME.svg -->
+  <a href="https://wakatime.com"><img src="https://img.shields.io/badge/Code_Time-3817_hrs_20_mins-0e75b6?style=flat-square" alt="Code Time" /></a>
+</p>
+
 ---
 
 ### 💻 Tech Stack:
@@ -65,3 +89,5 @@ Machine Learning, Deep Learning, and advanced Data Structures & Algorithms (Solv
   <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtual_Machine-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
+
+```
