@@ -11,11 +11,8 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
 🔭 **I'm currently building:**
 * **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
 
-* **E-commerce Website:** A scalable and modern e-commerce platform for seamless online shopping.
-
 🚀 **Featured Projects:**
 * **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern ML workflows — live in production.
-* **Open Source Contributions:** Contributed to community projects including **SecureGuard** (automated discovery of misconfigurations in open-source dependencies) and **Eventra** (full-stack event management platform, React + Spring Boot).
 * **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect and neutralize political bias in news/social text, aimed at improving media literacy.
 * **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)) — end-to-end product, frontend to API, shipped and deployed.
 
