@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/dheer1j_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer
+CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer | Learning Finance
 
 🔭 **I'm currently building:**
 * **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
@@ -24,9 +24,7 @@ CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthus
 
 🏆 **Hackathons & Achievements:**
 * Led website development for **REBECA**, IIEST Shibpur's annual cultural fest — built and shipped a production site used by the entire college community.
-* Secured 3rd place at the college level in the Smart India Hackathon (SIH).
-* Frontend Developer at HackOdisha Hackathon — integrated frontend components with backend services under time pressure.
-* Performed Exploratory Data Analysis on government Aadhaar data at the UIDAI Hackathon.
+* Backend Developer at HackOdisha Hackathon — integrated frontend components with backend services under time pressure.
 
 
 ### 💻 Tech Stack:
