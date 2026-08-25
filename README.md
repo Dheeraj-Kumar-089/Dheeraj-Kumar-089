@@ -9,19 +9,19 @@
 Building Tickker | Full Stack Developer | Applying ML, DL, and NLP knowledge to fine-tune transformer models for real-world applications | Learning Finance 
 
 🔭 **I'm currently building:**
-* **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
+* **Tickker:** A high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
 
 🚀 **Featured Projects:**
-* **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern ML workflows — live in production.
-* **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect and neutralize political bias in news/social text, aimed at improving media literacy.
-* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)) — end-to-end product, frontend to API, shipped and deployed.
+* **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern AI chatbot workflows.
+* **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect political bias in news/social text, aimed at improving media literacy.
+* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)), end-to-end product, frontend to API, shipped and deployed.
 
 
 🌱 Actively solving DSA (600+ problems solved) and going deeper into Full Stack Development.
 
 🏆 **Hackathons & Achievements:**
-* Led website development for **REBECA**, IIEST Shibpur's annual cultural fest — built and shipped a production site used by the entire college community.
-* Backend Developer at HackOdisha Hackathon — integrated frontend components with backend services under time pressure.
+* Led as a frontend web developer for **REBECA**, IIEST Shibpur's annual cultural fest and also done the data managment of events.
+* Backend Developer at HackOdisha Hackathon.Integrated frontend components with backend services under time pressure.
 
 
 ### 💻 Tech Stack:
