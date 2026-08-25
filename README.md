@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/dheer1j_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-CS Student at IIEST Shibpur 💻 | Co-Founder at Tickker 🚀 | ML and DL Enthusiast 💡 | Full Stack Developer | Learning Finance
+Building Tickker | Full Stack Developer | Applying ML, DL, and NLP knowledge to fine-tune transformer models for real-world applications | Learning Finance 
 
 🔭 **I'm currently building:**
 * **Tickker:** Co-founder of a high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
