@@ -74,6 +74,7 @@ I'm building it end to end with **React, TypeScript, FastAPI, TimescaleDB/Postgr
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents" />
@@ -120,4 +121,8 @@ I've developed solutions at **Smart India Hackathon, HackOdisha, UCO Bank, First
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true" alt="Dheeraj's GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-089&layout=compact&theme=tokyonight&hide_border=true" alt="Dheeraj's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Kumar-089&theme=tokyo-night&hide_border=true&area=true" alt="Dheeraj's GitHub contribution graph" />
 </p>
