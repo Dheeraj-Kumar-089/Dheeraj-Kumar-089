@@ -1,82 +1,117 @@
-# Hi, I'm Dheeraj Kumar Prajapati
+# Hi, I'm Dheeraj 👋
+
+### I build AI-powered products where software, cloud, and real-world problems meet.
+
+I am an Undergraduate in Computer Science at IIEST Shibpur. I'm also the Co-Founder & Product Engineer at Tickker. I started with Competitive Programming and then currently I use my problem-solving skills to create innovative products like Market Simulators, Agent Based Developer Tools and Contextual AI Systems. Also researched and built a political-bias detection tool by finetuning the Roberta encoder Transformer model.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dheerajkumarprajapati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/dheer1jkr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dheer1j_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dheerajkumarprajapati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/dheer1jkr"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:dheerajkp810@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-Building Tickker | Full Stack Developer | Applying ML, DL, and NLP knowledge to fine-tune transformer models for real-world applications | Learning Finance 
+## What I'm building
 
-🔭 **I'm currently building:**
-* **Tickker:** A high-fidelity market replay and paper trading platform acting as a "Flight Simulator" for traders. It gives you the exact market live market like environment even after the market hours and you can also do paper trade and backtest your ideas.
+### 📈 Tickker
 
-🚀 **Featured Projects:**
-* **[Kairis AI](https://kairis-ai.vercel.app):** Full-stack AI-powered application built on modern AI chatbot workflows.
-* **[Political Bias Detection](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection):** Deep learning pipeline using Transformer architectures to detect political bias in news/social text, aimed at improving media literacy.
-* **[WanderList](https://wanderlists.vercel.app):** Full-stack travel planning app ([backend](https://wander-list-backend.vercel.app)), end-to-end product, frontend to API, shipped and deployed.
+Markets close, but curiosity doesn't. **Tickker** is a high-fidelity market replay and paper-trading platform—a “flight simulator” for traders to practise, replay markets, and test ideas whenever they want.
 
+I'm building it end to end with **React, TypeScript, FastAPI, TimescaleDB/PostgreSQL, and Redis**, with automated deployment to Azure through GitHub Actions.
 
-🌱 Actively solving DSA (600+ problems solved) and going deeper into Full Stack Development.
+## Featured Projects
 
-🏆 **Hackathons & Achievements:**
-* Led as a frontend web developer for **REBECA**, IIEST Shibpur's annual cultural fest and also done the data managment of events.
-* Backend Developer at HackOdisha Hackathon.Integrated frontend components with backend services under time pressure.
+- **[Flowent](https://github.com/Dheeraj-Kumar-089/flowent)** · [Live](https://projectrs.me) — A zero-setup, AI-powered cloud IDE. It provisions isolated Kubernetes sandboxes on AWS, then lets a Gemini-powered agent read and edit the workspace while Vite previews every change instantly.
 
+- **[Solace Studio](https://github.com/Dheeraj-Kumar-089/solace-studio)** · [Live](https://solacestudio.vercel.app/)— A multi-vendor e-commerce platform where Gemini turns natural-language shopping requests into useful product filters. Built with React 19, Redux Toolkit, Express 5, and MongoDB, it includes buyer and seller workflows, Razorpay payments, ImageKit media management, and a real-time seller analytics dashboard.
 
-### 💻 Tech Stack:
+- **[Kairis AI](https://kairis-ai.vercel.app)** — A context-aware assistant built around Gemini, Mistral, and Llama 3. It uses Pinecone-powered RAG across documents and code, plus hierarchical memory compression to preserve context while reducing token usage.
 
-**Programming Languages**
+- **[Political Bias Classification](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection)** — A multi-encoder RoBERTa system with gated cross-modality attention. It reached **0.55 Macro-F1** on the AllSides dataset, outperforming comparable transformer baselines by up to 6%.
+
+## My toolkit
+
+### Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks, Platforms & Libraries**
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img src="https://img.shields.io/badge/Recharts-%2322B5BF.svg?style=for-the-badge&logo=recharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-**Databases**
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
 
-**Hosting / SaaS**
+### AI & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual_Machine-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LLM_Agents-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents" />
 </p>
 
----
+### Databases
 
-### 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+</p>
+
+### Cloud Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
+
+### Commerce & Media
+
+<p>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/ImageKit-3A0CA3?style=flat-square" alt="ImageKit" />
+</p>
+
+## Beyond the build
+
+I've developed solutions at **Smart India Hackathon, HackOdisha, UCO Bank, First Commit, and UIDAI hackathons**, contributed through **GirlScript Summer of Code**, and helped build the website for IIEST Shibpur's annual cultural fest, **REBECA**.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dheeraj-Kumar-089&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakNum=FF6B35&sideNums=1B5E20&currStreakLabel=FF6B35&dates=8B949E&sideLabels=8B949E&border=30363D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Kumar-089&bg_color=0D1117&color=A875FF&line=A875FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true" alt="Dheeraj's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-089&layout=compact&theme=tokyonight&hide_border=true" alt="Dheeraj's most used languages" />
 </p>
