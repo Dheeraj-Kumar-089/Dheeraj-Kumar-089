@@ -2,12 +2,12 @@
 
 ### I build AI-powered products where software, cloud, and real-world problems meet.
 
-<h3>
+<h4>
   CS student at IIEST Shibpur and Co-Founder & Product Engineer at Tickker.<br><br>
   Started off with Competitive Programming and now I use those same skills to build actual stuff like market simulators, agent-based dev tools, and contextual AI systems.<br><br>
   Also spent some time teaching a RoBERTa model to spot political bias. Basically, fine-tuned a Transformer to figure out who's being biased on the internet.<br><br>
   Still solving problems, just with fewer test cases and more real-world bugs.
-</h3>
+</h4>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dheerajkumarprajapati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,23 +19,23 @@
 
 ### 📈 Tickker
 
-<h3>
+<h4>
   Markets close, but curiosity doesn't. <strong>Tickker</strong> is a high-fidelity market replay and paper-trading platform—a “flight simulator” for traders to practise, replay markets, and test ideas whenever they want.
-</h3>
+</h4>
 
-<h3>
+<h4>
   I'm building it end to end with <strong>React, TypeScript, FastAPI, TimescaleDB/PostgreSQL, and Redis</strong>, with automated deployment to Azure through GitHub Actions.
-</h3>
+</h4>
 
 ## Featured Projects
 
-### **[Flowent](https://github.com/Dheeraj-Kumar-089/flowent)** · [Live](https://projectrs.me) — A zero-setup, AI-powered cloud IDE. It provisions isolated Kubernetes sandboxes on AWS, then lets a Gemini-powered agent read and edit the workspace while Vite previews every change instantly.
+#### **[Flowent](https://github.com/Dheeraj-Kumar-089/flowent)** · [Live](https://projectrs.me) — A zero-setup, AI-powered cloud IDE. It provisions isolated Kubernetes sandboxes on AWS, then lets a Gemini-powered agent read and edit the workspace while Vite previews every change instantly.
 
-### **[Solace Studio](https://github.com/Dheeraj-Kumar-089/solace-studio)** · [Live](https://solacestudio.vercel.app/) — A multi-vendor e-commerce platform where Gemini turns natural-language shopping requests into useful product filters. Built with React 19, Redux Toolkit, Express 5, and MongoDB, it includes buyer and seller workflows, Razorpay payments, ImageKit media management, and a real-time seller analytics dashboard.
+#### **[Solace Studio](https://github.com/Dheeraj-Kumar-089/solace-studio)** · [Live](https://solacestudio.vercel.app/) — A multi-vendor e-commerce platform where Gemini turns natural-language shopping requests into useful product filters. Built with React 19, Redux Toolkit, Express 5, and MongoDB, it includes buyer and seller workflows, Razorpay payments, ImageKit media management, and a real-time seller analytics dashboard.
 
-### **[Kairis AI](https://kairis-ai.vercel.app)** — A context-aware assistant built around Gemini, Mistral, and Llama 3. It uses Pinecone-powered RAG across documents and code, plus hierarchical memory compression to preserve context while reducing token usage.
+#### **[Kairis AI](https://kairis-ai.vercel.app)** — A context-aware assistant built around Gemini, Mistral, and Llama 3. It uses Pinecone-powered RAG across documents and code, plus hierarchical memory compression to preserve context while reducing token usage.
 
-### **[Political Bias Classification](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection)** — A multi-encoder RoBERTa system with gated cross-modality attention. It reached **0.55 Macro-F1** on the AllSides dataset, outperforming comparable transformer baselines by up to 6%.
+#### **[Political Bias Classification](https://github.com/Dheeraj-Kumar-089/Political_Bias_Detection)** — A multi-encoder RoBERTa system with gated cross-modality attention. It reached **0.55 Macro-F1** on the AllSides dataset, outperforming comparable transformer baselines by up to 6%.
 
 ## My toolkit
 
@@ -119,9 +119,9 @@
 
 ## Beyond the build
 
-<h3>
+<h4>
   I've developed solutions at <strong>Smart India Hackathon, HackOdisha, UCO Bank, First Commit, and UIDAI hackathons</strong>, contributed through <strong>GirlScript Summer of Code</strong>, and helped build the website for IIEST Shibpur's annual cultural fest, <strong>REBECA</strong>.
-</h3>
+</h4>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-089&show_icons=true&theme=tokyonight&hide_border=true" alt="Dheeraj's GitHub stats" />
